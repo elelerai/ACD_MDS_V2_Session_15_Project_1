@@ -1,7 +1,8 @@
-# ACD_MDS_V2_Session_15_Project_1
-1.​​ ​ Introduction
-This assignment will help you to consolidate the concepts learnt in the session.
-2.​​ ​ Problem Statement
+# Python Data Cleaning Project
+
+
+## Problem Statement
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
